@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671116075840",
+    "firebase_url": "https://techhub-318a4.firebaseio.com",
+    "project_id": "techhub-318a4",
+    "storage_bucket": "techhub-318a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671116075840:android:182d694b8e5dbb0dc950a5",
+        "android_client_info": {
+          "package_name": "com.techhub.xamarinpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671116075840-nr9pkbj0ndqeo4o65ku3751q2u0bnjfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1d8Dlcys7k7gnM7gcNsfOjx7QlZtphsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671116075840-nr9pkbj0ndqeo4o65ku3751q2u0bnjfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
